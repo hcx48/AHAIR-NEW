@@ -1,0 +1,500 @@
+main {
+    background: #592D1D;
+}
+main section .row .INICIO {
+    justify-content: space-between;
+}
+main section .row .INICIO {
+   display: flex;
+   align-items: center;
+}
+main section .row .INICIO .Reader {
+    padding: 0 284px;
+}
+main section .row .INICIO .Reader h1{
+    font-size: 78px;
+    color: #FBF7E4;
+}
+main section .row .INICIO .Reader p {
+    color: #FBF7E4;
+    font-size: 19px;
+    margin: 16px 0
+}
+main section .row .INICIO .Reader .butoom {
+    padding: 23px 0px;
+}
+main section .row .INICIO .img {
+    width: 992px;
+    height: 938px;
+}
+main section .row .INICIO .Reader .butoom a button {
+    background: #EE754C;
+    border: none;
+    color: #FBF7E4;
+    width: 258px;
+    height: 61px;
+    border-radius: 200px;
+}
+main section {
+    padding-bottom: 12vh;
+}
+main .container .caixa .caixas {
+    display: flex;
+}
+main .container .caixas .card {
+    padding: 40px;
+}
+main .container .caixas .card.espaso {
+    padding: 40px 0px 40px 40px;
+}
+main .container .caixa .caixas .card.espaso.esquerdo {
+    padding: 40px 0px 40px 40px;
+}
+main .container .caixa .caixas .card .profile {
+    padding: 3vh;
+    text-align: center;
+    background: #FBF7E4;
+    border-radius: 0px 41px 0px 41px;
+    box-shadow: 0px 0px 19px 0px rgb(0 0 0);
+}
+main .container .caixa .caixas .card .profile .amostra img {
+    position: relative;
+    width: 232px;
+    height: 281px;
+    top: -73px;
+}
+main .container .caixa .caixas .card .descricao {
+    color: #592D1D;
+    text-align: left;
+    padding: 2vh;
+    position: relative;
+    top: -40px;
+}
+main .container .caixa .prosimo a {
+    text-decoration: none;
+    color: #FBF7E4;
+}
+main .container .caixa .prosimo {
+    text-align: center;
+}
+main .container .caixa .caixas .card .profile a button {
+    cursor: pointer;
+    text-decoration: none;
+    background-color: #EE754C;
+    color: #FBF7E4;
+    font-size: 17px;
+    line-height: 20px;
+    border: none;
+    /* rectangle 1*/
+    width: 230px;
+    height: 41px;
+    border-radius: 200px;
+}
+/* SECTION DIFERENCIADA */
+main .fundador {
+    background: #EE754C;
+    padding: 13vh;
+}
+main .fundador .row {
+    text-align: center;
+    justify-content: center;
+    margin: 0 64px;
+}
+main .retangle .container .row {
+    justify-content: space-between;
+}
+main section .container .row .caixa .declaracao {
+     padding: 2vh;
+}
+main section .container .row .caixa .declaracao h1 {
+    font-size: 48px;
+    color: #592D1D;
+    line-height: 57px
+}
+main section .container .row .caixa .declaracao span {
+    font-size: 28px;
+    color: #592D1D;
+    text-align: center;
+}
+main .fundador .container .row .card {
+    background: #FBF7E4;
+    border-radius: 0px 62px 0px 70px;
+    width: 307px;
+    height: 410px;
+    box-shadow: -1px 0px 30px 6px rgb(0 0 0 / 0.5),
+    -1px 0px 30px 6px rgb(0 0 0 / 1.5),
+    inset -1px 0px 30px 6px rgb(0 0 0 / 0.5), 
+    inset -1px 0px 30px 6px rgb(0 0 0 / 0.5), 
+    inset -1px 0px 30px 6px rgb(0 0 0 / 0.1),
+    inset -1px 0px 30px 6px rgb(0 0 0 / 0.1);
+}
+main .fundador .container .row .card .profile .amostra img {
+    width: 300px;
+    height: 393px;
+    border-radius: 0px 62px 0px 70px;
+}
+main .fundador .container .row .card .profile .amostra {
+    position: relative;
+    top: 52px;
+    left: 51px;
+
+}
+/* SECTION DE COLABORADORES */
+main section.colaboradores {
+    background: #FBF7E4;
+}
+main section.colaboradores .container .titulo {
+    text-align: center;
+    font-size: 48px;
+    font-style: italic;
+}
+main section.colaboradores .container .titulo h1 {
+    color: #EE754C;
+}
+main section.colaboradores .container .caixas {
+    justify-content: space-between;
+    padding: 12px;
+    display: flex;
+}
+main section.colaboradores .container .caixas .caixa .card.colabore {
+    padding: 0;
+}
+/* CARDES COM DIFERECIAS */
+main section.colaboradores .container .caixas .caixa.blocoA .card {
+    border-radius: 38px 38px 0px 38px;
+}
+main section.colaboradores .container .caixas .caixa.blocoB .card {
+    background: #EE754C;
+    border-radius: 38px 38px 38px 0px
+}
+main section.colaboradores .container .caixas .caixa.caixa.blocoC .card {
+    background: #EE754C;
+    border-radius: 38px 0px 38px 38px;
+}
+main section.colaboradores .container .caixas .caixa.caixa.blocoD .card {
+    border-radius: 0px 38px 38px 38px;
+}
+main section.colaboradores .container .caixas .caixa .card .declarasao.color h1 {
+    font-size: 24px;
+    color: #592D1D; 
+    font-style: normal;
+    line-height: 29px;
+} 
+main section.colaboradores .container .caixas .caixa .card .declarasao.color span {
+    font-size: 14px;
+    color: #592D1D; 
+    line-height: 17px;
+} 
+main section.colaboradores .container .caixas .caixa .card .declarasao h1 {
+    font-size: 24px;
+    color: #EE754C; 
+    font-style: normal;
+    line-height: 29px;
+} 
+main section.colaboradores .container .caixas .caixa .card .declarasao span {
+    font-size: 14px;
+    color: #EE754C; 
+    line-height: 17px;
+} 
+main section.colaboradores .container .caixas .caixa .card.colabore .formasao {
+    line-height: 22px;
+}
+main section.colaboradores .container .caixas .caixa .card.colabore .declarasao {
+    line-height: 22px;
+    text-align: start;
+    position: relative;
+    left: -51px;
+}
+main section.colaboradores .container .caixas .caixa .card.colabore .declarasao.ESD {
+    position: relative;
+    left: 61px;
+}
+main section.colaboradores .container .caixas .card {
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 2px 0px 7px 0px rgb(0 0 0);
+    background: #592D1D;
+    display: flex;
+    width: 410px;
+    height: 210px;
+}
+main section.colaboradores .container .caixas .card .declarasao span {
+    color: #EE754C;
+    font-size: 15px;
+}
+main section.colaboradores .container .caixas .card .declarasao {
+     text-align: start;
+}
+main section.colaboradores .container .caixas .card .declarasao .formasao {
+    color: #FBF7E4;
+    font-size: 15px;
+}
+/* POSISAO DAS PROFILES */
+main section.colaboradores .container .caixas .profile.ringt {
+    position: relative;
+    right: 81px;
+}
+main section.colaboradores .container .caixas .profile.left {
+    position: relative;
+    left: 81px;
+}
+main section.colaboradores .container .butoom {
+    text-align: center;
+    padding-top: 100px;
+}
+main section.colaboradores .container .butoom button {
+        cursor: pointer;
+        text-decoration: none;
+        background-color: #EE754C;
+        color: white;
+        font-size: 17px;
+        line-height: 20px;
+        border: 2px solid #EE754C;
+        /* rectangle 1*/
+        width: 200px;
+        height: 50px;
+        border-radius: 200px;
+}
+/* PENUTIMA SECTION */
+main .container .contect {
+    padding: 30vh;
+}
+main .container .contect .entre {
+    text-align: center;
+    padding: 12vh;
+}
+main .container .contect .entre img {
+    width: 22px;
+    height: 22px;
+}
+main .container .contect .titulo h1 {
+    text-align: center;
+    align-items: center;
+    font-size: 46px;
+    color: white;
+}
+main .container .contect .comtatos ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+}
+main .container .contect .comtatos ul li{
+    background: #EE754C;
+    padding: 30px;
+    align-items: center;
+    border-radius: 100%;
+}
+main .container .contect .comtatos ul li a img {
+    width: 80px;
+    height: 82px;
+}
+main .container .contect .comtatos ul li.instragran a img {
+    position: relative;
+    left: -7px;
+}
+main section .container .contect .comtatos .vfr {
+    display: flex;
+    text-align: center;
+    color: white;
+    justify-content: space-between; 
+    position: relative;
+    left: -22px;
+}
+main section .container .contect .comtatos .vfr .nome {
+    font-style: italic;
+    font-size: 40px;
+    padding: 20px;
+}
+
+@media(max-width: 1440px) {
+    section.fundador .container .row {
+       display: block;
+    }
+    main .fundador .container.rip {
+        max-width: none;
+    }
+    main section {
+       padding-bottom: 5vh;
+    }
+    main .fundador .container .row .card {
+        position: relative;
+        left: 462px;
+        top: 39px;
+    }
+    main section .container .contect .comtatos .vfr {
+        justify-content: center;
+        position: relative;
+        left: -18px;
+    }
+    main section .container .contect .comtatos .vfr .nome {
+        font-size: 40px;
+        padding: 7px 39px;
+    }
+    main section .row .INICIO .Reader {
+        padding: 0px;
+    }
+    /* MEDIDA VIRADA */
+    @media(max-width: 606px){
+        .container.menor {
+            /* width: 479px; */
+            width: 336px;
+        }
+        main .Reader {
+            text-align: center;
+        }
+        main .container .caixas .card.espaso {
+            padding: 40px 9px;
+        }
+        main .container .caixa .caixas .card.espaso.esquerdo {
+            padding: 47px 9px;
+        }
+        main section .row .INICIO .Reader h1 {
+            font-size: -webkit-xxx-large;
+        }
+        main section .row .INICIO .ImagemPricipal img {
+            width: 620px;
+            height: 761px;
+        }
+        main .container .contect .comtatos ul li {
+            background: none;
+            padding-bottom: 40px;
+        }
+        main .container .contect .comtatos ul li {
+            padding: 90px;
+        }
+        main .container .contect .comtatos ul {
+            display: block;
+            text-align: center;
+        }
+        main .comtatos ul li a {
+            background: #EE754C;
+            padding: 9px;
+            align-items: center;
+            width: 12px;
+            border-radius: 100%;
+        }
+        main section .row .INICIO {
+         display: block;
+    }
+    main section .container .contect .comtatos .vfr {
+        position: relative;
+        left: 3px;
+        display: block;
+        top: -547px;
+    }
+    main section .container .contect .comtatos .vfr .nome {
+        position: relative;
+        top: -64px; 
+    }
+    main section .container .contect .comtatos .vfr .nome.wtz {
+        border: none;
+    }
+    main section .container .contect .comtatos .vfr .nome.inst {
+        position: relative;
+        top: 140px;
+    }
+    main section .container .contect .comtatos .vfr .nome.gma {
+        position: relative;
+        top: 349px;
+    }
+    main section .caixas {
+        padding: 20px;
+    }
+    main .fundador .container .row .card {
+        position: inherit;
+    }
+    main section.colaboradores .container .caixas {
+        display: block;
+    }
+    main section.colaboradores .container .caixas .caixa.caixa.blocoC .card {
+        position: relative;
+        left: -64px;
+    }
+    main section.colaboradores .container .caixas .caixa.blocoA .card {
+        background: #EE754C;
+        position: relative;
+        right: 64px;
+    }
+    main section.colaboradores .container .caixas .caixa.caixa.blocoD .card {
+        position: relative;
+        right: 64px;
+    }
+    main section.colaboradores .container .caixas .caixa.caixa.blocoB .card {
+        position: relative;
+        right: 64px;
+    }
+    main section.colaboradores .container .caixas .caixa.caixa.blocoD .card {
+        position: relative;
+        right: 64px;
+    }
+    main section.colaboradores .container .caixas .caixa.blocoA .card .declarasao h1 {
+        color: #592D1D;
+    }
+    main section.colaboradores .container .caixas .caixa.blocoB .card .declarasao h1 {
+        color: #EE754C;
+    }
+    main section.colaboradores .container .caixas .caixa.blocoC .card .declarasao h1 {
+        color: #592D1D;
+    }
+    main section.colaboradores .container .caixas .caixa.blocoA .card .declarasao span {
+        color: #592D1D;
+    }
+    main section.colaboradores .container .caixas .caixa.blocoB .card .declarasao span {
+        color: #EE754C;
+    }
+    main section.colaboradores .container .caixas .caixa.blocoC .card .declarasao span {
+        color: #592D1D;
+    }
+    main section.colaboradores .container .caixas .caixa.blocoB .card {
+        background: #592D1D;
+    }
+    main section.colaboradores .container .caixas .caixa {
+        padding-top: 52px;
+    }
+    main section.colaboradores .container .titulo {
+        font-size: 20px;
+    }
+    main .container .contect {
+        padding: 12vh;
+    }
+    main .container .caixa .caixas.some {
+        display: block;
+        position: absolute;
+        width: 100%;
+        top: 70px;
+        right: 0px;
+        z-index: 1000;
+        height: 0px;
+        visibility: hidden;
+        overflow-y: hidden;
+    }
+}
+@media(max-width: 320px) {
+    main section .comtainer {
+        padding: 0 0rem;
+}
+main section .row .INICIO .ImagemPricipal img {
+    width: 318px;
+    height: 559px;
+}
+main .container .caixa .caixas .card.espaso.esquerdo {
+    padding: 20px;
+}
+main .container .caixas .card.espaso {
+    padding: 50px 17px;
+}
+footer .container .row .menu {
+    display: block;
+}
+footer .container .row .menu ul li.titulo {
+    padding-bottom: 10px ;
+    border: solid ;
+}
+footer .container .row .menu ul {
+    padding: 0;
+}
+footer .container .row .menu ul li {
+    text-align: center;
+}
+}
+}
